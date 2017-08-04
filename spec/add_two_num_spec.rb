@@ -38,8 +38,6 @@ def construct_list_from(num)
 end
 
 
-
-
 describe 'Add two Numbers' do
 
   it 'happy path' do
@@ -60,5 +58,5 @@ describe 'Add two Numbers' do
     expect(add_two_numbers_as_str(l1, l2)).to eq('01')
   end
 
-  
+
 end
