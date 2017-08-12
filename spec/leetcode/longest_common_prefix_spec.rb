@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../leetcode/longest_common_prefix'
+require_relative '../../leetcode/longest_common_prefix'
 
 describe 'Longest common prefix' do
 

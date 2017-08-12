@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../leetcode/duplicates_in_sorted_array'
+require_relative '../../leetcode/duplicates_in_sorted_array'
 
 # Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.
 #

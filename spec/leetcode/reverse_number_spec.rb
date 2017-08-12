@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../leetcode/../leetcode/reverse_number'
+require_relative '../../leetcode/../leetcode/reverse_number'
 
 describe 'Reverse Number' do
 

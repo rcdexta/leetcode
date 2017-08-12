@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../leetcode/array'
+require_relative '../../leetcode/array'
 
 describe 'Two sum' do
 

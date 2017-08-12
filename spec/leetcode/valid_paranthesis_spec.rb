@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../leetcode/valid_paranthesis'
+require_relative '../../leetcode/valid_paranthesis'
 
 #Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
